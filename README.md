@@ -22,4 +22,4 @@ The karma task will try to open a browser in which to run the tests. Make sure t
 
 # Usage
 
-read demo/index.html for detail
+read https://github.com/zjuwwq/angular-ui-cardNo/tree/master/demo for detail
